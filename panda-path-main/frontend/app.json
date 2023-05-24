@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "panda-path",
+    "slug": "panda-path",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fffff"
+    },
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
